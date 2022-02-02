@@ -2,8 +2,6 @@
 
 int num1 = new Random().Next(1,10);
 int num2 = new Random().Next(1,82);
-num1 = 2;
-num2 = 4;
 
 if (num1 * num1 == num2)
 {
