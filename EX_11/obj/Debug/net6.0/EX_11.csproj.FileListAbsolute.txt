@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Lesson1\EX_11\bin\Debug\net6.0\EX_11.exe
+C:\Users\ASUS\Desktop\Lesson1\EX_11\bin\Debug\net6.0\EX_11.deps.json
+C:\Users\ASUS\Desktop\Lesson1\EX_11\bin\Debug\net6.0\EX_11.runtimeconfig.json
+C:\Users\ASUS\Desktop\Lesson1\EX_11\bin\Debug\net6.0\EX_11.dll
+C:\Users\ASUS\Desktop\Lesson1\EX_11\bin\Debug\net6.0\ref\EX_11.dll
+C:\Users\ASUS\Desktop\Lesson1\EX_11\bin\Debug\net6.0\EX_11.pdb
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.dll
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\ref\EX_11.dll
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.pdb
+C:\Users\ASUS\Desktop\Lesson1\EX_11\obj\Debug\net6.0\EX_11.genruntimeconfig.cache
