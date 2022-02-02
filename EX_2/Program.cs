@@ -1,7 +1,8 @@
 ﻿// Даны два числа. Показать большее и меньшее число
-
-int num1 = new Random().Next(1,100);
-int num2 = new Random().Next(1,100);
+Console.WriteLine("Введите число №1:");
+int num1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите число №2:");
+int num2 = int.Parse(Console.ReadLine());
 
 if (num1 == num2)
 {
