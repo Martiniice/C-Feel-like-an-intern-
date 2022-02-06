@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\bin\Debug\net6.0\EX_20.exe
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\bin\Debug\net6.0\EX_20.deps.json
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\bin\Debug\net6.0\EX_20.runtimeconfig.json
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\bin\Debug\net6.0\EX_20.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\bin\Debug\net6.0\ref\EX_20.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\bin\Debug\net6.0\EX_20.pdb
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\ref\EX_20.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.pdb
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_20\obj\Debug\net6.0\EX_20.genruntimeconfig.cache
