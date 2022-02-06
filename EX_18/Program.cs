@@ -1,4 +1,5 @@
-﻿bool x = true; 
+﻿// Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
+bool x = true; 
 bool y = false; 
 bool resleft = false; 
 bool resright = false; 
