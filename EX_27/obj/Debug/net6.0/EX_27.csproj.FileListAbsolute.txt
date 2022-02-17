@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\bin\Debug\net6.0\EX_27.exe
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\bin\Debug\net6.0\EX_27.deps.json
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\bin\Debug\net6.0\EX_27.runtimeconfig.json
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\bin\Debug\net6.0\EX_27.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\bin\Debug\net6.0\ref\EX_27.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\bin\Debug\net6.0\EX_27.pdb
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\ref\EX_27.dll
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.pdb
+C:\Users\ASUS\Desktop\tasks\C-Feel-like-an-intern-\EX_27\obj\Debug\net6.0\EX_27.genruntimeconfig.cache
