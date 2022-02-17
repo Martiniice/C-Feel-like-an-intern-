@@ -19,7 +19,7 @@ void PrintArray(int[] numbs)
 }
 void SummNumbersOddIndex(int[] nums)
 {
-    int index = 1;
+    int index = 0;
     int summ = 0;
     while (index < nums.Length)
     {
